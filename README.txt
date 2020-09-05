@@ -1,0 +1,1 @@
+Play it as loose or as strict as you want, this is only a framework for the story that the players tell
