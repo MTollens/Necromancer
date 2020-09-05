@@ -1,0 +1,7 @@
+1:10 Platinum:gold
+1:10 Gold:silver
+1:5  electrum:silver
+1:10 silver:copper
+5LBS of edible material can be made into 2 rations using cooking tools or 12 AC survival
+or 3 rations with a 15 AC survival
+or 3 rations with 12 AC survival + cooking tools
